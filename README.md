@@ -1,5 +1,5 @@
 安装命令：
-bash <(curl -sL https://raw.githubusercontent.com/becapital/xray/main/xray.sh)  
+bash <(curl -sL https://github.com/Coshining/xray/raw/main/xray.sh)  
 
 如果“回车”后没有出现下图的菜单：
 CentOS 系统请输入: yum install -y curl
